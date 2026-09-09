@@ -12,7 +12,7 @@ title('Dvi funkcijos')
 xlabel('X-ai')
 ylabel('F_1 [-o-]   |   F_2 [-x-]')
 
-%% Papildoma uzduotis
+% Papildoma uzduotis
 N = 7;
 
 v = N + 1 : 0.5 : N + 4
